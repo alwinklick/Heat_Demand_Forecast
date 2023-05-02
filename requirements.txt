@@ -1,7 +1,7 @@
 numpy
 pandas
-matplotlib
+# matplotlib
 ipykernel
-seaborn
+# seaborn
 plotly
-nbformat
+# nbformat
