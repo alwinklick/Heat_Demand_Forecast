@@ -17,6 +17,7 @@ We also have:
 ## Contents
 Please find the relevant stuff in the respective notebooks
 * 01_plot_the_data (first plot for visual inspection)
+* 02_EDA (initial hypotheses testing)
 
 ## Set up environment
 To set up, please execute the following lines of code
